@@ -1,0 +1,55 @@
+3000	Francis Ford Coppola	Apocalypse Now	Action & Adventure	apocalypse_now.gif	9180	R	1979	22.99	0
+3001	Michael Bay	Bad Boys	Action & Adventure	badboys.gif	7140	R	1995	15.99	782
+3002	Mel Gibson	Braveheart	Action & Adventure	braveheart.gif	10620	R	1995	14.99	582
+3003	Mimi Leder	Deep Impact	Action & Adventure	deep_impact.gif	5700	PG-13	1998	11.99	501
+3004	J. Robert Wagoner	Disco Godfather	Action & Adventure	disco_godfather.gif	5580	R	1993	10.99	872
+3005	Stanley Kubrick	Full Metal Jacket	Action & Adventure	full_metal_jacket.gif	7020	R	1987	16.99	872
+3006	Roland Emmerich	Independence Day	Action & Adventure	independence_day.gif	8700	PG-13	1996	16.99	0
+3007	John McTiernan	The Hunt for Red October	Action & Adventure	hunt_for_red_october.gif	8100	PG	1990	10.99	618
+3008	Michael Bay	The Rock	Action & Adventure	the_rock.gif	8160	R	1996	20.99	514
+3009	Tony Scott	Top Gun	Action & Adventure	top_gun.gif	6600	PG	1986	11.99	499
+3010	Jay Roach	Austin Powers	Comedy	austin_powers.gif	5220	PG-13	1997	17.99	688
+3011	Harold Ramis	Caddyshack	Comedy	caddyshack.gif	5880	R	1980	18.99	938
+3012	Michael Schultz	Car Wash	Comedy	car_wash.gif	5820	PG	1976	24.99	0
+3013	Spike Lee	Crooklyn	Comedy	crooklyn.gif	6840	PG-13	1994	9.99	651
+3014	D`Urville Martin	Dolemite	Comedy	dolemite.gif	5460	R	1975	19.99	489
+3015	Peter Farrelly	Dumb and Dumber	Comedy	dumb_and_dumber.gif	6600	PG-13	1994	23.99	973
+3016	Terry Gilliam	Monty Python and The Holy Grail	Comedy	monty_python_holy_grail.gif	5400	PG	1975	17.99	980
+3017	Chris Columbus	Mrs. Doubtfire	Comedy	mrs_doubtfire.gif	7500	PG-13	1993	21.99	772
+3018	John Landis	The Blues Brothers	Comedy	blues_brothers.gif	9180	R	1980	14.99	0
+3019	Tom Shadyac	The Nutty Professor	Comedy	nutty_professor.gif	5700	PG-13	1996	19.99	925
+3020	John Schlesinger	Falcon and the Snowman	Drama	falcon_snowman.jpg	7860	R	1985	10.99	995
+3021	Robert Zemeckis	Forrest Gump	Drama	forrest_gump.gif	9420	PG-13	1994	10.99	496
+3022	Jerry Zucker	Ghost	Drama	ghost.gif	7620	PG-13	1990	12.99	828
+3023	Victor Fleming	Gone With The Wind	Drama	gone_with_the_wind.gif	13320	NR	1939	23.99	915
+3024	Gus Van Sant	Good Will Hunting	Drama	good_will_hunting.gif	7560	R	1997	14.99	0
+3025	John Singleton	Poetic Justice	Drama	poetic_justice.gif	6540	R	1993	20.99	523
+3026	David Anspaugh	Rudy	Drama	rudy.gif	6840	PG	1993	15.99	658
+3027	Frank Darabont	Shawshank Redemption	Drama	shawshank_redemption.gif	8520	R	1994	20.99	529
+3028	George Tillman	Soul Food	Drama	soul_food.gif	6840	R	1997	11.99	687
+3029	James Cameron	Titanic	Drama	titanic.gif	11640	PG-13	1997	22.99	917
+3030	Bernard Rose	Candyman	Horror	candyman.gif	5880	R	1992	15.99	0
+3031	Brian De Palmas	Carrie	Horror	carrie.gif	5880	R	1976	15.99	855
+3032	Sean S. Cunningham	Friday the 13th Pt 1	Horror	friday_13th_part1.gif	5760	NR	1980	24.99	903
+3033	Rob Reiner	Misery	Horror	misery.gif	6420	R	1990	22.99	612
+3034	Mary Lambert	Pet Sematary	Horror	pet_sematary.gif	6180	R	1989	13.99	887
+3035	Tobe Hopper	Poltergeist	Horror	poltergeist.gif	6900	R	1982	20.99	821
+3036	Alfred Hitchcock	Psycho	Horror	psycho.gif	6540	R	1960	15.99	0
+3037	Wes Craven	Scream	Horror	scream.gif	6660	R	1996	22.99	692
+3038	Ridley Scott	Alien	Science Fiction	alien.gif	6960	R	1979	19.99	800
+3039	Stanley Kubrick	Clockwork Orange	Science Fiction	clockwork_orange.gif	8220	R	1971	13.99	400
+3040	Robert Zemeckis	Contact	Science Fiction	contact.gif	9000	PG	1997	10.99	547
+3041	David Lynch	Dune	Science Fiction	dune.gif	8220	PG-13	1984	10.99	962
+3042	John Boorman	Excalibur	Science Fiction	excalibur.gif	8400	PG	1981	15.99	0
+3043	Steven Spielberg	Jurassic Park	Science Fiction	jurassic_park.gif	7620	PG-13	1993	20.99	806
+3044	Johnathan Frakes	Star Trek: First Contact	Science Fiction	star_trek_first_contact.gif	6660	PG-13	1996	11.99	593
+3045	George Lucas	Star Wars	Science Fiction	star_wars.gif	7260	PG	1977	13.99	720
+3046	Steven Lisberger	Tron	Science Fiction	tron.gif	5700	PG	1982	12.99	653
+3047	Jeremiah Chechik	Diabolique	Suspense	diabolique.gif	6480	R	1996	15.99	421
+3048	Barry Levinson	Disclosure	Suspense	disclosure.gif	7740	R	1994	23.99	0
+3049	Harold Becker	Malice	Suspense	malice.gif	6360	R	1993	23.99	752
+3050	David Fincher	Seven	Suspense	seven.gif	7620	R	1995	14.99	421
+3051	Sydney Pollack	The Firm	Suspense	the_firm.gif	9240	R	1993	17.99	655
+3052	David Fincher	The Game	Suspense	the_game.gif	6900	R	1997	21.99	581
+3053	Jonathan Demme	The Silence of the Lambs	Suspense	silence_of_the_lambs.gif	7080	R	1991	22.99	817
+3054	Bryan Singer	The Usual Suspects	Suspense	usual_suspects.gif	6360	R	1995	23.99	0
